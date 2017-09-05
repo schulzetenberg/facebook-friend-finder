@@ -1,11 +1,11 @@
-## Facebook Friend Finder
+## Facebook API
 
 ### Setup
 
 ```bash
 npm install
 ```
-- Add Facebook credentials to the local.json file
+- Add your Facebook credentials to the local.json file
 
 ### Run
 
