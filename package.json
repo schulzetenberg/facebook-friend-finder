@@ -1,0 +1,16 @@
+{
+  "name": "facebook-friend-finder",
+  "version": "1.0.0",
+  "description": "Facebook friend finder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "schulzetenberg",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "q": "1.4.1",
+    "winston": "2.3.1"
+  }
+}
